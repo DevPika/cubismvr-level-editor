@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "name": "Example",
+    "id": "08H8SVX1P3YDD7GL",
+    "difficulty": "easy",
+    "puzzleFormatVersion": 1,
+    "angle": 0,
+    "created": "2020-12-12 10:46 AM",
+    "author": "Vanbo"
+  },
+  "grid": [
+     {
+      "localPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "localPos": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      }
+    },
+    {
+      "localPos": {
+        "x": 0,
+        "y": 2,
+        "z": 0
+      }
+    },
+    {
+      "localPos": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "localPos": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      }
+    },
+    {
+      "localPos": {
+        "x": 1,
+        "y": 2,
+        "z": 0
+      }
+    }
+  ],
+  "pieces": [
+    {
+      "color": "E39CAC",
+      "segments": [
+        {
+          "localPos": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "localPos": {
+            "x": 1,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "localPos": {
+            "x": 0,
+            "y": 1,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "color": "ACF495",
+      "segments": [
+        {
+          "localPos": {
+            "x": 1,
+            "y": 1,
+            "z": 0
+          }
+        },
+        {
+          "localPos": {
+            "x": 1,
+            "y": 2,
+            "z": 0
+          }
+        },
+        {
+          "localPos": {
+            "x": 0,
+            "y": 2,
+            "z": 0
+          }
+        }
+      ]
+    }
+  ]
+}
