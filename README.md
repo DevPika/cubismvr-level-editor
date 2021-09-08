@@ -48,7 +48,7 @@ The editor shows a running log of load and save operations. You can continue wor
 ## Download :arrow_down:
 Get the latest build in the [releases section](https://github.com/DevPika/cubismvr-level-editor/releases/latest).
 
-:orange_square: :green_square: :blue_square: :red_square: :purple_square: :brown_square:
+<p align="center">:orange_square: :green_square: :blue_square: :red_square: :purple_square: :brown_square:</p>
 
 ## To Do :clipboard:
 * Improved workflow to allow creation of an overall shape before assigning pieces
